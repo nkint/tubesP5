@@ -24,7 +24,6 @@ System:
 
 * OSX 
 
-*Signal Filter should theoretically work on Linux too, if you try it, please let me know.*
 
 Processing Version: 
 
