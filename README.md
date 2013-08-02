@@ -7,6 +7,7 @@ It implements Parallel Transport Approach to Curve Framing, references could be 
 It was a part (a little part, actually) of my project for Computational Geometry course at university with teacher A. Alzati
 http://users.mat.unimi.it/users/alzati/personale/
 
+Original Java implementation by [Alberto Massa](https://twitter.com/nkint).
 Processing 2.0 repack by [Raphaël de Courville](vimeo.com/sableraf/).
 
 
